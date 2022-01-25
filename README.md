@@ -4,7 +4,6 @@
 I am a Tech enthusiast and currently use my skills in creating beautiful webpages.\
 🌱 I’m currently learning backend technologies.\
 :loudspeaker: I am open to developer roles to put my skills into practise\
-✍️ Here is my [portfolio](https://moyinadenuga.netlify.app/)
 
 ## :computer: Tech Skills 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
