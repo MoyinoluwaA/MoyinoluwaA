@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Moyinoluwa :woman:
+# Hello there, I am Moyinoluwa Adenuga :woman:
 I am a Tech enthusiast and currently use my skills in creating web applications.\
 :computer: Fullstack Software Engineer\
 :loudspeaker: Feel free to reach out to me if any questions or you need me on your team project
